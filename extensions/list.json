@@ -12,6 +12,15 @@
         "name": "OhbugExtensionUIRrweb",
         "cdn": "https://cdn.jsdelivr.net/npm/@ohbug/extension-rrweb@latest/dist/ui.umd.min.js"
       }
+    },
+    {
+      "name": "OhbugExtensionPerfume",
+      "author": "chenyueban <jasonchan0527@gmail.com>",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/ohbug-org/ohbug-extension-perfume"
+      },
+      "key": "perfume"
     }
   ]
 }
