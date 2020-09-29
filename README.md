@@ -32,6 +32,8 @@ Official projects and resources of Ohbug.
 
 Contribute extension see [document](./extensions/README.md).
 
+- [ohbug-extension-rrweb](https://github.com/ohbug-org/ohbug-extension-rrweb) - Ohbug extension to 'screen recording'.
+
 
 ## Contribute
 
