@@ -23,7 +23,9 @@ Modify the `data` field in the `list.json` file and add your **Ohbug Extension**
 ```json
 {
   "name": "OhbugExtensionRrweb",
+  "description": "To 'screen recording'",
   "author": "chenyueban <jasonchan0527@gmail.com>",
+  "logo": "https://www.rrweb.io/favicon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/ohbug-org/ohbug-extension-rrweb"

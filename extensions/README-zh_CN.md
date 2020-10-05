@@ -23,7 +23,9 @@ Ohbug 扩展列表，存放所有经过 Ohbug 官方认证的扩展（extension�
 ```json
 {
   "name": "OhbugExtensionRrweb",
+  "description": "To 'screen recording'",
   "author": "chenyueban <jasonchan0527@gmail.com>",
+  "logo": "https://www.rrweb.io/favicon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/ohbug-org/ohbug-extension-rrweb"
