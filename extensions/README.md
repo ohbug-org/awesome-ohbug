@@ -18,7 +18,7 @@ Your contribution is welcome! This catalog only accepts **Ohbug Extension**, and
 
 If you want to add your own **Ohbug Extension** to the **Ohbug Market**, please submit [PR](https://docs.github.com/en/free-pro-team@latest/github/ collaborating-with-issues-and-pull-requests/creating-a-pull-request) Modify the `list.json` file in this directory according to the following requirements and add the paragraph `Extensions` in the root directory `README.md` The warehouse address of your plugin.
 
-Modify the `data` field in the `list.json` file and add your **Ohbug Extension** information in the following format.
+Modify the `list.json` file and add your **Ohbug Extension** information in the following format.
 
 ```json
 {

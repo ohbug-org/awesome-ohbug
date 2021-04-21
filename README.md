@@ -10,12 +10,13 @@
 
 > A curated list of awesome things related to [Ohbug](https://github.com/ohbug-org/ohbug)
 
-
 ## Contents
 
-- [Resources](#resources)
-- [Extensions](#extensions)
-
+- [awesome-ohbug ![Awesome](https://awesome.re)](#awesome-ohbug-)
+  - [Contents](#contents)
+  - [Resources](#resources)
+  - [Extensions](#extensions)
+  - [Contribute](#contribute)
 
 ## Resources
 
@@ -24,9 +25,7 @@ Official projects and resources of Ohbug.
 - [Ohbug](https://github.com/ohbug-org/ohbug) - An open source application information monitoring platform.
 - [Ohbug-miniapp](https://github.com/ohbug-org/ohbug-miniapp) - Ohbug 小程序 SDK 用于小程序平台（支持微信、字节跳动、支付宝、QQ 小程序）
 - [Ohbug-server](https://github.com/ohbug-org/ohbug-server) - The back end of the dashboard is implemented based on nestjs.
-- [Ohbug-web-app](https://github.com/ohbug-org/ohbug-web-app) - Front end of the dashboard.
 - [Ohbug-cli](https://github.com/ohbug-org/ohbug-cli) - Command line utility to work with Ohbug.
-
 
 ## Extensions
 
@@ -34,7 +33,6 @@ Contribute extension see [document](./extensions/README.md).
 
 - [ohbug-extension-rrweb](https://github.com/ohbug-org/ohbug-extension-rrweb) - Ohbug extension to 'screen recording'.
 - [ohbug-extension-perfume](https://github.com/ohbug-org/ohbug-extension-perfume) - Ohbug extension to collect performance information.
-
 
 ## Contribute
 

@@ -1,29 +1,27 @@
-{
-  "data": [
-    {
-      "name": "OhbugExtensionRrweb",
-      "description": "To 'screen recording'",
-      "author": "chenyueban <jasonchan0527@gmail.com>",
-      "logo": "https://www.rrweb.io/favicon.png",
-      "repository": {
-        "type": "git",
-        "url": "https://github.com/ohbug-org/ohbug-extension-rrweb"
-      },
-      "key": "rrweb",
-      "ui": {
-        "name": "OhbugExtensionUIRrweb",
-        "cdn": "https://cdn.jsdelivr.net/npm/@ohbug/extension-rrweb@latest/dist/ui.umd.min.js"
-      }
+[
+  {
+    "name": "OhbugExtensionRrweb",
+    "description": "To 'screen recording'",
+    "author": "chenyueban <jasonchan0527@gmail.com>",
+    "logo": "https://www.rrweb.io/favicon.png",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/ohbug-org/ohbug-extension-rrweb"
     },
-    {
-      "name": "OhbugExtensionPerfume",
-      "description": "Collect performance information",
-      "author": "chenyueban <jasonchan0527@gmail.com>",
-      "repository": {
-        "type": "git",
-        "url": "https://github.com/ohbug-org/ohbug-extension-perfume"
-      },
-      "key": "perfume"
+    "key": "rrweb",
+    "ui": {
+      "name": "OhbugExtensionUIRrweb",
+      "cdn": "https://cdn.jsdelivr.net/npm/@ohbug/extension-rrweb@latest/dist/ui.umd.min.js"
     }
-  ]
-}
+  },
+  {
+    "name": "OhbugExtensionPerfume",
+    "description": "Collect performance information",
+    "author": "chenyueban <jasonchan0527@gmail.com>",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/ohbug-org/ohbug-extension-perfume"
+    },
+    "key": "perfume"
+  }
+]
