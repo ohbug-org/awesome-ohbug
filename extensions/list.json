@@ -23,5 +23,15 @@
       "url": "https://github.com/ohbug-org/ohbug-extension-perfume"
     },
     "key": "perfume"
+  },
+  {
+    "name": "OhbugExtensionView",
+    "description": "Ohbug extension to collect view data",
+    "author": "chenyueban <jasonchan0527@gmail.com>",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/ohbug-org/ohbug-extension-view"
+    },
+    "key": "view"
   }
 ]
