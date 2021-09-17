@@ -1,9 +1,7 @@
 <div align="center">
   <a href="https://ohbug.net" target="_blank">
-    <img src="https://raw.githubusercontent.com/ohbug-org/blog/master/images/ohbug_logo.svg" alt="Ohbug" height="72">
+    <img src="https://raw.githubusercontent.com/ohbug-org/blog/master/images/ohbug_logo.svg" alt="Ohbug" height="40">
   </a>
-  
-  <p>An open source application information monitoring platform.</p>
 </div>
 
 # awesome-ohbug [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -34,6 +32,7 @@ Contribute extension see [document](./extensions/README.md).
 - [ohbug-extension-rrweb](https://github.com/ohbug-org/ohbug-extension-rrweb) - Ohbug extension to 'screen recording'.
 - [ohbug-extension-perfume](https://github.com/ohbug-org/ohbug-extension-perfume) - Ohbug extension to collect performance information.
 - [ohbug-extension-view](https://github.com/ohbug-org/ohbug-extension-view) - Ohbug extension to collect view data.
+- [@ohbug/extension-feedback](https://github.com/ohbug-org/ohbug-extension-feedback): Visual operation, used to collect user feedback information.
 
 ## Contribute
 
